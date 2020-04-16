@@ -3,7 +3,7 @@
 import telebot
 
 
-bot = telebot.TeleBot('990489950:AAGIPAa_6qHXcGd0NmkK-jN3yJG3rOK14xI')
+bot = telebot.TeleBot('TOKEN')
 
 
 keyboard1 = telebot.types.ReplyKeyboardMarkup(True)
